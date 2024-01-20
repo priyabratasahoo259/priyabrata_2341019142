@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Q01 {
+    public static void main(String[] args) {
+    	 
+    	int firstDivisorSum = 0 , secondDivisorSum = 0 ,firstNumber,SecondNumber ;
+    	 
+    	 Scanner sc = new Scanner(System.in);
+         
+    	 System.out.print("Enter the First Number");
+        firstNumber = sc.nextInt();
+        
+        int firstdivision Sum  
+                secondNumber = sc.nextInt();
+    }
+}

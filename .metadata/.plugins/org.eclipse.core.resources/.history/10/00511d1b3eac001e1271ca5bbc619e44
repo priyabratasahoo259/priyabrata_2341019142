@@ -1,0 +1,19 @@
+
+public class question10 {
+     public static void main(String[]args)
+     {
+    	 int res = 0;
+    	 for(int i = n; i >= 2 ; i -- ) {
+    		 if((i & (i-2)) == 0) {
+    			 res = i ; 
+    			 break ;
+    		 }
+    	 return res ;
+    	 {
+    		 public static void main (String[]args) {
+    			 
+    		 }
+    	 }
+    		 
+     }
+}
